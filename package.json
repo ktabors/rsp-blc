@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "A wrapper around broken-link-checker to provider briefer results.",
   "license": "Apache-2.0",
-  "homepage": "https://git.corp.adobe.com/taborski/rsp-blc",
-  "bugs": "https://git.corp.adobe.com/taborski/rsp-blc/issues",
+  "homepage": "https://github.com/ktabors/rsp-blc",
+  "bugs": "https://github.com/ktabors/rsp-blc/issues",
   "repository": {
-    "url": "https://git.corp.adobe.com/taborski/rsp-blc",
+    "url": "https://github.com/ktabors/rsp-blc",
     "type": "git"
   },
   "keywords": [
