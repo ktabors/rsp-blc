@@ -28,17 +28,17 @@ node ./scripts/blcReport.js -u <BASE_URL>
 yarn run -u <BASE_URL>
 ```
 
-`-r` include the redirected urls (http code 308).
+`-r` Include the redirected urls (http code 308).
 ```
 yarn run -u <BASE_URL> -r
 ```
 
-`-t` include the too many request urls (http code 429).
+`-t` Include the too many request urls (http code 429).
 ```
 yarn run -u <BASE_URL> -t
 ```
 
-`-e` include the urls excluded by robot files.
+`-e` Include the urls excluded by robot files.
 ```
 yarn run -u <BASE_URL> -e
 ```
