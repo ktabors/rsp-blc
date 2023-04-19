@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const {SiteChecker} = require('broken-link-checker');
 
 let options = {};
