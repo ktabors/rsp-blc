@@ -6,19 +6,17 @@
   "homepage": "https://git.corp.adobe.com/taborski/rsp-blc",
   "bugs": "https://git.corp.adobe.com/taborski/rsp-blc/issues",
   "repository": {
-    "url": "https://github.com/taborski/rsp-blc",
+    "url": "https://git.corp.adobe.com/taborski/rsp-blc",
     "type": "git"
   },
   "keywords": [
     "website broken link checker"
   ],
-  "bin": {
-    "rsp-blc": "src/blcReport.js"
-  },
+  "bin": "./scripts/blcReport.js",
   "dependencies": {
     "broken-link-checker": "0.7.8"
   },
   "scripts": {
-    "run": "node ./src/blcReport.js"
+    "run": "node ./scripts/blcReport.js"
   }
 }
